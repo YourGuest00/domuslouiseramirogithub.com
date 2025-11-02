@@ -1,0 +1,10 @@
+title: My Writer Site
+description: A simple writing theme using Jekyll
+url: "https://<your-username>.github.io"
+baseurl: ""   # leave blank for main site, or use "/repo-name" if it's not your username.github.io repo
+
+remote_theme: olivierbossel/jekyll-writer-theme
+
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
